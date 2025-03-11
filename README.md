@@ -2,7 +2,7 @@
 This project is deprecated! I am no longer maintaining this project. Why not check out [Metallic](https://github.com/Metallic-Web/Metallic)?
 
 # Shadow
-Shadow is a simple yet stunning service built to access any website
+Shadow is a simple yet stunning service built to access any website's
 
 Join our [discord](https://discord.gg/yk33HZSZkU) for more links
 
